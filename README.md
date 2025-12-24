@@ -35,7 +35,7 @@ This app allows users to search for any city and get real-time weather informati
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-   - git clone https://github.com/Anees44/Weather-App-Website.git
+- git clone https://github.com/Anees44/Weather-App-Website.git
    
 Open the project folder:
 
