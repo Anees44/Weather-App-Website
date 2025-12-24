@@ -28,10 +28,28 @@ This app allows users to search for any city and get real-time weather informati
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/Anees44/Weather-App-Website.git
 Open the project folder:
-
 cd Weather-App-Website
 Open index.html in your browser
 (You can simply double-click the file)
+
+📚 What I Learned
+
+Working with APIs in JavaScript
+
+Handling user input and errors
+
+DOM manipulation
+
+Basic Git & GitHub workflow
+
+👨‍💻 Author
+
+Anees Rehman
+
+GitHub: https://github.com/Anees44
+
+⭐ Acknowledgment
+
+This project was developed as my first HTML, CSS, and JavaScript project to strengthen my frontend development skills.
