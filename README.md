@@ -1,1 +1,37 @@
-# Weather-App-Website
+# 🌦️ Weather App
+
+A simple and responsive Weather Application built using **HTML, CSS, and JavaScript**.  
+This app allows users to search for any city and get real-time weather information such as temperature, weather conditions, humidity, and wind speed.
+
+---
+
+##  Features
+
+-  Search weather by city name  
+-  Displays temperature in Celsius  
+-  Shows weather condition (Clear, Cloudy, Rain, etc.)  
+-  Displays humidity and wind speed  
+-  Responsive design (works on desktop & mobile)  
+-  Real-time data using a weather API  
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the application  
+- **CSS3** – Styling and responsive layout  
+- **JavaScript (ES6)** – Logic and API integration  
+- **Weather API** – For fetching real-time weather data
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Anees44/Weather-App-Website.git
+Open the project folder:
+
+cd Weather-App-Website
+Open index.html in your browser
+(You can simply double-click the file)
