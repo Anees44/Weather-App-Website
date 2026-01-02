@@ -42,7 +42,7 @@ This app allows users to search for any city and get real-time weather informati
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developed By
 
 - Anees Ur Rehman
 - GitHub: https://github.com/Anees44
