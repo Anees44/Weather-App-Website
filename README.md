@@ -8,7 +8,7 @@ This app allows users to search for any city and get real-time weather informati
 ## 🚀 Live Demo
 
  **Live Website:** 
-(https://weather-app-website-beta.vercel.app/)
+https://weather-app-website-beta.vercel.app/
 
 ---
 
