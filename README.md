@@ -47,3 +47,8 @@ This app allows users to search for any city and get real-time weather informati
 - Anees Ur Rehman
 - GitHub: https://github.com/Anees44
 
+---
+
+## ⭐ Acknowledgment
+
+- This project was created to practice and strengthen my core frontend skills using HTML, CSS, and JavaScript.
