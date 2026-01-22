@@ -5,7 +5,7 @@ This app allows users to search for any city and get real-time weather informati
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
  **Live Website:** 
 https://weather-app-website-beta.vercel.app/
@@ -23,7 +23,7 @@ https://weather-app-website-beta.vercel.app/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure of the application  
 - **CSS3** – Styling and responsive layout  
@@ -32,7 +32,7 @@ https://weather-app-website-beta.vercel.app/
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - Fetching and handling API data in JavaScript
 - DOM manipulation and event handling
@@ -42,13 +42,13 @@ https://weather-app-website-beta.vercel.app/
 
 ---
 
-## 👨‍💻 Developed By
+## Developed By
 
 - Anees Ur Rehman
 - GitHub: https://github.com/Anees44
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
 - This project was created to practice and strengthen my core frontend skills using HTML, CSS, and JavaScript.
